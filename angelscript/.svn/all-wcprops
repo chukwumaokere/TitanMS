@@ -1,0 +1,431 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/titanms/!svn/ver/57/trunk/src/angelscript
+END
+as_memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_memory.h
+END
+as_scriptstruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptstruct.h
+END
+as_compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_compiler.h
+END
+as_scriptnode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptnode.h
+END
+as_generic.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_generic.h
+END
+as_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_c.cpp
+END
+as_array.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_array.h
+END
+as_restore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_restore.cpp
+END
+as_builder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_builder.cpp
+END
+as_configgroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_configgroup.h
+END
+as_module.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_module.h
+END
+as_debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_debug.h
+END
+as_callfunc_x86.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_x86.cpp
+END
+as_typeinfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_typeinfo.cpp
+END
+as_callfunc_xenon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_xenon.cpp
+END
+as_scriptengine.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptengine.h
+END
+as_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_parser.h
+END
+as_callfunc_ppc_64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_ppc_64.cpp
+END
+as_string_util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_string_util.cpp
+END
+as_scriptcode.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptcode.h
+END
+as_callfunc_x64_gcc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_x64_gcc.cpp
+END
+as_thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_thread.cpp
+END
+as_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_memory.cpp
+END
+as_scriptnode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptnode.cpp
+END
+as_compiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_compiler.cpp
+END
+as_string.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_string.h
+END
+as_datatype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_datatype.cpp
+END
+as_generic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_generic.cpp
+END
+as_objecttype.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_objecttype.h
+END
+as_scriptfunction.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptfunction.h
+END
+as_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_map.h
+END
+as_bytecodedef.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_bytecodedef.h
+END
+as_configgroup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_configgroup.cpp
+END
+as_callfunc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc.cpp
+END
+as_restore.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_restore.h
+END
+as_context.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_context.h
+END
+as_scriptengine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptengine.cpp
+END
+as_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_parser.cpp
+END
+angelscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/angelscript.h
+END
+as_outputbuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_outputbuffer.h
+END
+as_typeinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_typeinfo.h
+END
+as_tokendef.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_tokendef.h
+END
+as_string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_string.cpp
+END
+as_objecttype.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_objecttype.cpp
+END
+as_string_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_string_util.h
+END
+angelscript.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/angelscript.vcproj
+END
+as_scriptfunction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptfunction.cpp
+END
+as_thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_thread.h
+END
+as_variablescope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_variablescope.cpp
+END
+as_callfunc_mips.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_mips.cpp
+END
+as_datatype.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_datatype.h
+END
+as_context.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_context.cpp
+END
+as_outputbuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_outputbuffer.cpp
+END
+as_callfunc.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc.h
+END
+angelscript_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/angelscript_c.h
+END
+as_bytecode.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_bytecode.h
+END
+as_arrayobject.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_arrayobject.cpp
+END
+as_scriptstruct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptstruct.cpp
+END
+as_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_config.h
+END
+as_texts.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_texts.h
+END
+as_tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_tokenizer.h
+END
+as_variablescope.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_variablescope.h
+END
+as_module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_module.cpp
+END
+as_property.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_property.h
+END
+as_callfunc_ppc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_ppc.cpp
+END
+as_builder.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_builder.h
+END
+as_bytecode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_bytecode.cpp
+END
+as_scriptcode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_scriptcode.cpp
+END
+as_callfunc_sh4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_callfunc_sh4.cpp
+END
+as_arrayobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_arrayobject.h
+END
+as_tokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/56/trunk/src/angelscript/as_tokenizer.cpp
+END

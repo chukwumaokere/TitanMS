@@ -1,0 +1,449 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/titanms/!svn/ver/61/trunk/src/mysql++
+END
+connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/connection.cpp
+END
+mysql++.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql++.h
+END
+options.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/options.h
+END
+type_info.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/type_info.h
+END
+datetime.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/datetime.h
+END
+my_alloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/my_alloc.h
+END
+manip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/manip.cpp
+END
+query.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/query.cpp
+END
+mysql_embed.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql_embed.h
+END
+field_types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/field_types.cpp
+END
+qparms.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/qparms.h
+END
+stream2string.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/stream2string.h
+END
+mysql++.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/59/trunk/src/mysql++/mysql++.vcproj
+END
+row.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/row.h
+END
+custom.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/custom.h
+END
+noexceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/noexceptions.h
+END
+beemutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/beemutex.h
+END
+transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/transaction.cpp
+END
+my_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/my_list.h
+END
+stadapter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/stadapter.cpp
+END
+options.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/options.cpp
+END
+mysql++.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql++.cpp
+END
+qparms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/qparms.cpp
+END
+dbdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/dbdriver.h
+END
+field_names.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/field_names.cpp
+END
+row.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/row.cpp
+END
+mysql_com.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql_com.h
+END
+manip.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/manip.h
+END
+null.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/null.cpp
+END
+comparable.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/comparable.h
+END
+uds_connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/uds_connection.cpp
+END
+cpool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/cpool.cpp
+END
+mystring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mystring.cpp
+END
+typelib.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/typelib.h
+END
+vallist.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/vallist.cpp
+END
+result.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/result.cpp
+END
+mysqld_error.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysqld_error.h
+END
+wnp_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/wnp_connection.h
+END
+querydef.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/querydef.h
+END
+dbdriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/dbdriver.cpp
+END
+refcounted.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/refcounted.h
+END
+mysqld_ername.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysqld_ername.h
+END
+myset.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/myset.h
+END
+mysql.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql.h
+END
+tcp_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/tcp_connection.h
+END
+field_names.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/field_names.h
+END
+uds_connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/uds_connection.h
+END
+null.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/null.h
+END
+cpool.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/cpool.h
+END
+mystring.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mystring.h
+END
+wnp_connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/wnp_connection.cpp
+END
+vallist.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/vallist.h
+END
+result.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/result.h
+END
+sql_buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/sql_buffer.cpp
+END
+type_info.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/61/trunk/src/mysql++/type_info.cpp
+END
+datetime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/datetime.cpp
+END
+myset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/myset.cpp
+END
+tiny_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/tiny_int.h
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/connection.h
+END
+tcp_connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/tcp_connection.cpp
+END
+autoflag.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/autoflag.h
+END
+query.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/query.h
+END
+ssqls.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/ssqls.h
+END
+field_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/field_types.h
+END
+beemutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/beemutex.cpp
+END
+mysql_version.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql_version.h
+END
+exceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/exceptions.h
+END
+sql_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/sql_types.h
+END
+mysql_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/mysql_time.h
+END
+field.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/field.h
+END
+transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/transaction.h
+END
+stadapter.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/stadapter.h
+END
+sql_buffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/mysql++/sql_buffer.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/60/trunk/src/mysql++/common.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/titanms/!svn/ver/77/trunk/src/Connection
+END
+Connector.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/Connection/Connector.h
+END
+AbstractPlayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/39/trunk/src/Connection/AbstractPlayer.cpp
+END
+Acceptor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/5/trunk/src/Connection/Acceptor.cpp
+END
+Connection.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/56/trunk/src/Connection/Connection.vcproj
+END
+Selector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/5/trunk/src/Connection/Selector.cpp
+END
+AbstractPlayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/39/trunk/src/Connection/AbstractPlayer.h
+END
+Acceptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/Connection/Acceptor.h
+END
+PacketHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/5/trunk/src/Connection/PacketHandler.cpp
+END
+Selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/Connection/Selector.h
+END
+Connector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/58/trunk/src/Connection/Connector.cpp
+END
+PacketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/77/trunk/src/Connection/PacketHandler.h
+END

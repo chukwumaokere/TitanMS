@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 36
+Debug
+Release
+AS_DEBUG
+*.exe
+*.user
+
+END

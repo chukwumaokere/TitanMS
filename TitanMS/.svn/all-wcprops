@@ -1,0 +1,1361 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/titanms/!svn/ver/81/trunk/src/TitanMS
+END
+MapsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapsData.h
+END
+ReactorStateData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/45/trunk/src/TitanMS/ReactorStateData.h
+END
+Inventory.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Inventory.h
+END
+MapMobs.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/MapMobs.h
+END
+EquipsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/EquipsData.h
+END
+AngelScriptEngine.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/AngelScriptEngine.h
+END
+PlayerQuests.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/PlayerQuests.h
+END
+Drop.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/78/trunk/src/TitanMS/Drop.h
+END
+ChannelEventData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/ChannelEventData.h
+END
+Events.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Events.h
+END
+EventsScriptsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/28/trunk/src/TitanMS/EventsScriptsData.h
+END
+PlayerStats.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/PlayerStats.cpp
+END
+scriptstring_utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/scriptstring_utils.cpp
+END
+PlayerSkills.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/PlayerSkills.cpp
+END
+MapPortalsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapPortalsData.h
+END
+Mob.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/53/trunk/src/TitanMS/Mob.h
+END
+QuestsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestsData.h
+END
+DataStruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/DataStruct.h
+END
+Players.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/66/trunk/src/TitanMS/Players.h
+END
+DropsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/DropsData.h
+END
+PetData.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PetData.h
+END
+PlayerLogin.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/PlayerLogin.h
+END
+RemoteControl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/RemoteControl.cpp
+END
+ChannelEventsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/ChannelEventsData.h
+END
+PvPPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PvPPacket.cpp
+END
+Key.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Key.h
+END
+RemoteControlHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/RemoteControlHandler.h
+END
+QuestData.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestData.h
+END
+PacketWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PacketWriter.cpp
+END
+QuestRequestData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestRequestData.h
+END
+MapFootholdData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapFootholdData.h
+END
+Parties.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/Parties.h
+END
+SkillData.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/SkillData.h
+END
+MovingHandlingError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MovingHandlingError.cpp
+END
+Damage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/6/trunk/src/TitanMS/Damage.cpp
+END
+MapReactorsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapReactorsData.h
+END
+Players.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/66/trunk/src/TitanMS/Players.cpp
+END
+TitanMS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/69/trunk/src/TitanMS/TitanMS.cpp
+END
+Timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Timer.cpp
+END
+Event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/66/trunk/src/TitanMS/Event.cpp
+END
+ReactorsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ReactorsData.h
+END
+PlayerSkills.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/PlayerSkills.h
+END
+Characters.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Characters.h
+END
+RemoteControlPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/RemoteControlPacket.cpp
+END
+MapDrops.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/79/trunk/src/TitanMS/MapDrops.cpp
+END
+PartyPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/PartyPacket.cpp
+END
+PlayerKeys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PlayerKeys.cpp
+END
+QuestRewardsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestRewardsData.h
+END
+Initializing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/Initializing.cpp
+END
+Effect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Effect.cpp
+END
+QuestRequestsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestRequestsData.h
+END
+ReactorsPackets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ReactorsPackets.cpp
+END
+scriptstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/scriptstring.h
+END
+EventMapsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/EventMapsData.h
+END
+Player.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/71/trunk/src/TitanMS/Player.h
+END
+ChannelEventsScriptsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/ChannelEventsScriptsData.h
+END
+Reactor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Reactor.h
+END
+Maps.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Maps.h
+END
+PvP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PvP.cpp
+END
+MapNPCs.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapNPCs.h
+END
+Parties.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/Parties.cpp
+END
+Transportations.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/37/trunk/src/TitanMS/Transportations.cpp
+END
+MobData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/MobData.h
+END
+DropsPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/DropsPacket.cpp
+END
+Characters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Characters.cpp
+END
+NPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/NPC.cpp
+END
+Handler.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/23/trunk/src/TitanMS/Handler.h
+END
+Events.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/30/trunk/src/TitanMS/Events.xml
+END
+Map.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Map.h
+END
+MapPlayers.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/MapPlayers.h
+END
+Damage.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Damage.h
+END
+MovingHandlingError.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MovingHandlingError.h
+END
+libmysql.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/3/trunk/src/TitanMS/libmysql.dll
+END
+StatsPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/StatsPacket.cpp
+END
+Buff.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Buff.h
+END
+PlayerLoginHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/28/trunk/src/TitanMS/PlayerLoginHandler.h
+END
+scriptstring.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/scriptstring.cpp
+END
+InventoryHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/75/trunk/src/TitanMS/InventoryHandler.cpp
+END
+PacketHandlingError.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PacketHandlingError.h
+END
+StatsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/StatsHandler.cpp
+END
+PlayerNPC.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/PlayerNPC.cpp
+END
+Pet.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/34/trunk/src/TitanMS/Pet.h
+END
+PartyHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PartyHandler.cpp
+END
+ItemData.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/ItemData.h
+END
+MapPortalData.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapPortalData.h
+END
+SkillsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/SkillsHandler.cpp
+END
+Reactor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/Reactor.cpp
+END
+Initializing.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/Initializing.h
+END
+MapShipData.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/28/trunk/src/TitanMS/MapShipData.h
+END
+Character.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Character.h
+END
+NPCsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/76/trunk/src/TitanMS/NPCsHandler.cpp
+END
+Events.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/Events.cpp
+END
+Drop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/78/trunk/src/TitanMS/Drop.cpp
+END
+ReactorScriptsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ReactorScriptsData.h
+END
+NPCPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/72/trunk/src/TitanMS/NPCPacket.cpp
+END
+Channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Channel.h
+END
+Transportations.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/37/trunk/src/TitanMS/Transportations.h
+END
+MySQLM.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/MySQLM.cpp
+END
+Skill.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Skill.h
+END
+PlayerLoginHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/PlayerLoginHandler.cpp
+END
+MobsDropData.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MobsDropData.h
+END
+InventoryPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/71/trunk/src/TitanMS/InventoryPacket.cpp
+END
+DropsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/DropsHandler.cpp
+END
+MapReactors.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/MapReactors.h
+END
+ShopItemData.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ShopItemData.h
+END
+MobsPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/MobsPacket.cpp
+END
+DataProvider.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/DataProvider.h
+END
+PlayerHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/PlayerHandler.cpp
+END
+World.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/World.h
+END
+ByteCodeMemory.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ByteCodeMemory.h
+END
+ReactorData.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ReactorData.h
+END
+Item.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Item.cpp
+END
+MapFootholdsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapFootholdsData.h
+END
+PacketReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/58/trunk/src/TitanMS/PacketReader.h
+END
+LoginPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/6/trunk/src/TitanMS/LoginPacket.cpp
+END
+MapNPCsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapNPCsData.h
+END
+Markup.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Markup.h
+END
+Tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/Tools.h
+END
+SkillLevelData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/45/trunk/src/TitanMS/SkillLevelData.h
+END
+KeysHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/KeysHandler.cpp
+END
+Worlds.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/Worlds.cpp
+END
+MapMobData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapMobData.h
+END
+MapData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/45/trunk/src/TitanMS/MapData.h
+END
+PacketOutOfRangeError.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PacketOutOfRangeError.h
+END
+QuestsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestsHandler.cpp
+END
+Server.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/6/trunk/src/TitanMS/Server.xml
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/Event.h
+END
+ObjectMoving.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/42/trunk/src/TitanMS/ObjectMoving.cpp
+END
+MySQLM.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/MySQLM.h
+END
+World.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/World.cpp
+END
+Equip.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Equip.h
+END
+MapDrops.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/MapDrops.h
+END
+ShopsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ShopsData.h
+END
+Player.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/71/trunk/src/TitanMS/Player.cpp
+END
+Inventory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/70/trunk/src/TitanMS/Inventory.cpp
+END
+Markup.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Markup.cpp
+END
+PlayerHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PlayerHandler.h
+END
+Maps.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/Maps.cpp
+END
+TitanMS.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/59/trunk/src/TitanMS/TitanMS.vcproj
+END
+AngelScriptEngine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/titanms/!svn/ver/66/trunk/src/TitanMS/AngelScriptEngine.cpp
+END
+PlayerQuests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PlayerQuests.cpp
+END
+Item.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Item.h
+END
+QuestRewardData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/QuestRewardData.h
+END
+TopDataStruct.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/TopDataStruct.h
+END
+ShopData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ShopData.h
+END
+MapObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapObject.h
+END
+LifeMapObject.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/LifeMapObject.h
+END
+ItemEffectData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/ItemEffectData.h
+END
+PvP.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PvP.h
+END
+PacketOutOfRangeError.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PacketOutOfRangeError.cpp
+END
+NewItemTest.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/NewItemTest.h
+END
+Mob.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/Mob.cpp
+END
+ChatHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/80/trunk/src/TitanMS/ChatHandler.cpp
+END
+TransportationPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/TransportationPacket.cpp
+END
+Worlds.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Worlds.h
+END
+Equip.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/59/trunk/src/TitanMS/Equip.cpp
+END
+PlayerPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/80/trunk/src/TitanMS/PlayerPacket.cpp
+END
+Quests.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Quests.cpp
+END
+PlayerLogin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PlayerLogin.cpp
+END
+PlayerInventories.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PlayerInventories.h
+END
+Pet.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/79/trunk/src/TitanMS/Pet.cpp
+END
+ObjectMoving.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ObjectMoving.h
+END
+PacketCreator.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/80/trunk/src/TitanMS/PacketCreator.h
+END
+MapReactorData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapReactorData.h
+END
+Character.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Character.cpp
+END
+ItemSummonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ItemSummonData.h
+END
+PartyMember.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PartyMember.h
+END
+MapMobsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapMobsData.h
+END
+PlayerInventorys.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PlayerInventorys.cpp
+END
+MobsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/54/trunk/src/TitanMS/MobsHandler.cpp
+END
+MobsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MobsData.h
+END
+Channels.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/46/trunk/src/TitanMS/Channels.h
+END
+SkillsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/SkillsData.h
+END
+RemoteControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/RemoteControl.h
+END
+PlayerNPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/56/trunk/src/TitanMS/PlayerNPC.h
+END
+DropData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/DropData.h
+END
+EventsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/EventsData.h
+END
+Party.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Party.h
+END
+Trade.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Trade.h
+END
+MapPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/MapPacket.cpp
+END
+CharacterEquip.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/CharacterEquip.h
+END
+AntiCheat.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/AntiCheat.h
+END
+BytesStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/58/trunk/src/TitanMS/BytesStream.h
+END
+Channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/66/trunk/src/TitanMS/Channel.cpp
+END
+PacketWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PacketWriter.h
+END
+PetsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/PetsHandler.cpp
+END
+PartyMembers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PartyMembers.cpp
+END
+QuestsPacket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/QuestsPacket.cpp
+END
+MapReactors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/MapReactors.cpp
+END
+EventData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/EventData.h
+END
+EquipData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/28/trunk/src/TitanMS/EquipData.h
+END
+PlayerBuffs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/31/trunk/src/TitanMS/PlayerBuffs.cpp
+END
+PortalsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PortalsData.h
+END
+DataProvider.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/DataProvider.cpp
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Timer.h
+END
+ChannelsHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ChannelsHandler.cpp
+END
+Channels.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/46/trunk/src/TitanMS/Channels.cpp
+END
+PlayerKeys.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PlayerKeys.h
+END
+ReactorHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ReactorHandler.cpp
+END
+MapMobs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/53/trunk/src/TitanMS/MapMobs.cpp
+END
+Connection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/Connection.cpp
+END
+Party.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/66/trunk/src/TitanMS/Party.cpp
+END
+Trade.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/22/trunk/src/TitanMS/Trade.cpp
+END
+Tools.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/72/trunk/src/TitanMS/Tools.cpp
+END
+MapNPCs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapNPCs.cpp
+END
+Effect.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/titanms/!svn/ver/44/trunk/src/TitanMS/Effect.h
+END
+TopData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/28/trunk/src/TitanMS/TopData.h
+END
+Quest.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Quest.h
+END
+ReactorsDropData.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/ReactorsDropData.h
+END
+graphapp.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/graphapp.h
+END
+Run.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/Run.h
+END
+NPCsScriptsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/NPCsScriptsData.h
+END
+PetsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PetsData.h
+END
+MobSummonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/MobSummonData.h
+END
+MapPlayers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/35/trunk/src/TitanMS/MapPlayers.cpp
+END
+MapNPCData.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/MapNPCData.h
+END
+Map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/titanms/!svn/ver/52/trunk/src/TitanMS/Map.cpp
+END
+PartyMembers.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/titanms/!svn/ver/47/trunk/src/TitanMS/PartyMembers.h
+END
+ItemsData.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/ItemsData.h
+END
+libmysql.lib
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/libmysql.lib
+END
+PlayerQuest.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/PlayerQuest.h
+END
+NPC.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/NPC.h
+END
+PetCommandData.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PetCommandData.h
+END
+PlayerBuffs.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/titanms/!svn/ver/5/trunk/src/TitanMS/PlayerBuffs.h
+END
+NewTimerTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/titanms/!svn/ver/2/trunk/src/TitanMS/NewTimerTest.cpp
+END
+RemoteControlHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/titanms/!svn/ver/39/trunk/src/TitanMS/RemoteControlHandler.cpp
+END

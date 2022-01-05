@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shop>
+	<NPC>9900000</NPC>
+	<Items>
+		<Item>
+			<ID>1062007</ID>
+			<Price>1</Price>
+		</Item>
+		<Item>
+			<ID>1002140</ID>
+			<Price>1</Price>
+		</Item>
+		<Item>
+			<ID>1042003</ID>
+			<Price>1</Price>
+		</Item>
+		<Item>
+			<ID>1072190</ID>
+			<Price>1</Price>
+		</Item>
+		<Item>
+			<ID>1322013</ID>
+			<Price>1</Price>
+		</Item>
+	</Items>
+</Shop>
